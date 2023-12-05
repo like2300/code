@@ -1,0 +1,90 @@
+
+                                ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                +                                                            +
+                                +               CREATE BY ELENGA OMER FILS                   +
+                                +                                                            +
+                                ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+                            ///////////////////// code DEB for LINUX (NEWS LINUXIEN AND LINUXIENE)
+
+
+                            ############################################# CODE ROOT
+                            ---------------------- >>>>>>>>>>>>>>>>>>>>>>> [ sudo -i ]
+
+
+                            ################################ CODE FOR Ventoy (GO Ventoy)
+                            ------------------------------- >>>>>>>>>>>>>>>>>>>> [ sudo bash Ventoy2Disk.sh ]
+
+                            ############################### Change keyboard
+                            ------------------------------- >>>>>>>>>>>>>> setxkbmap (us ---- fr) example : [ setxkbmap us ] (qwerty) ,
+                                                                                                            [ setxkbmap fr ] (azerty)
+
+                            ################################################# MAJ SYSTEM UNIX IN DEB
+                            --------------------------------- >>>>>>>>>>>>>>>>>>> [ sudo apt update && sudo apt upgrade ]
+
+
+                            ////////////////////////////// code dev
+
+                            ################### NODE JS
+
+                            ------------------ INSTALL MAJ NODE JS
+
+                            #################### NODE IS INSTALLED
+
+                            NODE === [ node --version ]
+
+
+                            NODE  ===   [
+                                            #1 sudo apt-get install -y nodejs
+
+                                            #2 curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash
+
+                                            #3  sudo apt update && sudo apt upgrade
+
+                                        ]
+
+
+                            #################### NPM IS INSTALLED
+
+                            NPM ===== [ npm --version ]
+
+                            NPM ===== [ npm install -g npm@10.2.4 ]
+
+                            NPX ===== [ npm install -g npx ]
+
+
+
+                            ################################################ android studio
+
+                            ------------- instalation
+
+                            command$: [ sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386 ]
+
+
+                            ##################################### vscode downlaod for linux
+
+                            command$:  [ apt install Téléchargements/code/code_1.84.2-1699528352_amd64.deb ]
+
+
+                            ##################################### chrome downlaod for linux
+
+                            command$: [ sudo apt install Téléchargements/code/linux logiciel/google-chrome-stable_current_amd64.deb ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
